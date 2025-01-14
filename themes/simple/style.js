@@ -17,6 +17,12 @@ const Style = () => {
         -webkit-user-select: none;
         -ms-user-select: none;
     }
+     </style>
+</head>
+<body>
+  <div class="forbid-copy">
+    这是防复制的内容，无法复制或右键操作。
+  </div>
   
   #theme-simple #announcement-content {
     /* background-color: #f6f6f6; */
